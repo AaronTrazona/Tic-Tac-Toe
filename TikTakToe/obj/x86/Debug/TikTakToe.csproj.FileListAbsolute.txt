@@ -1,0 +1,9 @@
+C:\Aaron\Aaron 10.1.2.213\Aaron\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe
+C:\Aaron\Aaron 10.1.2.213\Aaron\TikTakToe\TikTakToe\bin\Debug\TikTakToe.pdb
+C:\Aaron\Aaron 10.1.2.213\Aaron\TikTakToe\TikTakToe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Aaron\Aaron 10.1.2.213\Aaron\TikTakToe\TikTakToe\obj\x86\Debug\TikTakToe.Form1.resources
+C:\Aaron\Aaron 10.1.2.213\Aaron\TikTakToe\TikTakToe\obj\x86\Debug\TikTakToe.Properties.Resources.resources
+C:\Aaron\Aaron 10.1.2.213\Aaron\TikTakToe\TikTakToe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Aaron\Aaron 10.1.2.213\Aaron\TikTakToe\TikTakToe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Aaron\Aaron 10.1.2.213\Aaron\TikTakToe\TikTakToe\obj\x86\Debug\TikTakToe.exe
+C:\Aaron\Aaron 10.1.2.213\Aaron\TikTakToe\TikTakToe\obj\x86\Debug\TikTakToe.pdb
